@@ -38,6 +38,9 @@
   <a href="https://discord.com/user/804246116094443551" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
   </a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=ashik14303@gmail.com&su=Contact%20from%20GitHub&body=Hi%20Ashik%2C%0A%0AI%20found%20your%20profile%20on%20GitHub.%20Here%20is%20my%20link%3A%20https%3A%2F%2Fgithub.com%2Fashik-exe%0A%0ARegards%2C" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  </a>
 </div>
 
 ###
