@@ -10,15 +10,37 @@
 
 ###
 
-<div align="center">
+<p align="center">Self-learning Web3 contributor exploring blockchain systems, coding, and digital design. I build small experiments and share my learning through visuals and community updates.</p>
+
+###
+
+<h3 align="left">👨‍💻 About Me</h3>
+
+###
+
+<p align="left">I'm a self-learning Web3 explorer who loves understanding how things work—blockchain systems, automation, and digital design. I learn by doing: small builds, small experiments, and sharing everything along the way.<br><br>Right now, I split my time between<br><br>• Contributing to Web3/blockchain projects<br><br>• Learning coding + improving my design sense<br><br>• Creating digital art & visuals<br><br>• Posting updates as I grow<br><br>I’m not here to pretend I know everything—<br>I’m here to learn publicly, build consistently, and improve every single day.</p>
+
+###
+
+<h3 align="left">Reach Me On</h3>
+
+###
+
+<div align="left">
   <a href="https://x.com/Ashik_exe" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
   </a>
-  <a href="@ashik_exe" target="_blank">
+  <a href="t.me/ashik_exe" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
   </a>
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+  <a href="https://discord.com/user/804246116094443551" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+  </a>
 </div>
+
+###
+
+<h3 align="center">Tool I Have Placed My Hands On</h3>
 
 ###
 
@@ -37,8 +59,9 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=ashik-exe&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=ashik-exe&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <a href="https://open.spotify.com/user/31nw43a3sp5tvcpblxfe7q3zvxhy">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31nw43a3sp5tvcpblxfe7q3zvxhy&count=5&unique=true" alt="Spotify recently played"  />
+  </a>
 </div>
 
 ###
@@ -52,36 +75,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ashik-exe&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ashik-exe&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/a">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=a&count=5&unique=false" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
-
-<div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=ashik-exe.ashik-exe&"  />
-</div>
-
-###
-
-<div align="center" style="width: 100%">
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/0">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/0" alt="Medium post 1"  />
-  </a>
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/1">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/1" alt="Medium post 2"  />
-  </a>
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/2">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/2" alt="Medium post 3"  />
-  </a>
 </div>
 
 ###
