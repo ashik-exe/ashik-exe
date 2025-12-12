@@ -4,6 +4,10 @@
 
 ###
 
+<img align="left" height="100" src="https://i.pinimg.com/originals/62/12/48/6212485181ca055f760855d98d3ee4bc.gif"  />
+
+###
+
 <h1 align="center">★! Aꜱʜɪᴋ</h1>
 
 ###
