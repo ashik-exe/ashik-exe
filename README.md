@@ -1,7 +1,5 @@
-<br clear="both">
-
-<div align="center">
-  <img height="200" src="https://i.pinimg.com/originals/e0/93/3c/e0933cfe30da2c82232d339dc0e64eb6.gif"  />
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
 </div>
 
 ###
@@ -14,7 +12,7 @@
 
 ###
 
-<h3 align="left">👨‍💻 About Me</h3>
+<h3 align="left">● ᴀʙᴏᴜᴛ ᴍᴇ</h3>
 
 ###
 
@@ -22,7 +20,7 @@
 
 ###
 
-<h3 align="left">Reach Me On</h3>
+<h3 align="left">● ʀᴇᴀᴄʜ ᴍᴇ ᴏɴ</h3>
 
 ###
 
@@ -53,29 +51,19 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="60" alt="vscode logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" height="60" alt="discordjs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
 </div>
-
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/31nw43a3sp5tvcpblxfe7q3zvxhy">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31nw43a3sp5tvcpblxfe7q3zvxhy&count=5&unique=true" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ashik-exe/ashik-exe/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ashik-exe/ashik-exe/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ashik-exe/ashik-exe/output/pacman-contribution-graph.svg">
-</picture>
 
 ###
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=ashik-exe.ashik-exe&"  />
+</div>
+
+###
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=onedark"  />
 </div>
 
 ###
