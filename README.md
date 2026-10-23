@@ -1,76 +1,64 @@
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
-</div>
-
-###
-
-<img align="left" height="100" src="https://i.pinimg.com/originals/62/12/48/6212485181ca055f760855d98d3ee4bc.gif"  />
-
-###
-
-<h1 align="center">★! Aꜱʜɪᴋ</h1>
-
-###
-
-<p align="center">Self-learning Web3 contributor exploring blockchain systems, coding, and digital design. I build small experiments and share my learning through visuals and community updates.</p>
-
-###
-
-<h3 align="left">● ᴀʙᴏᴜᴛ ᴍᴇ</h3>
-
-###
-
-<p align="left">I'm a self-learning Web3 explorer who loves understanding how things work—blockchain systems, automation, and digital design. I learn by doing: small builds, small experiments, and sharing everything along the way.<br><br>Right now, I split my time between<br><br>• Contributing to Web3/blockchain projects<br><br>• Learning coding + improving my design sense<br><br>• Creating digital art & visuals<br><br>• Posting updates as I grow<br><br>I’m not here to pretend I know everything—<br>I’m here to learn publicly, build consistently, and improve every single day.</p>
-
-###
-
-<h3 align="left">● ʀᴇᴀᴄʜ ᴍᴇ ᴏɴ</h3>
-
-###
-
-<div align="left">
-  <a href="https://x.com/Ashik_exe" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  </a>
-  <a href="t.me/ashik_exe" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
-  </a>
-  <a href="https://discord.com/user/804246116094443551" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  </a>
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=ashik14303@gmail.com&su=Contact%20from%20GitHub&body=Hi%20Ashik%2C%0A%0AI%20found%20your%20profile%20on%20GitHub.%20Here%20is%20my%20link%3A%20https%3A%2F%2Fgithub.com%2Fashik-exe%0A%0ARegards%2C" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-  </a>
-</div>
-
-###
-
-<h3 align="center">Tool I Have Placed My Hands On</h3>
-
-###
+<!-- ==========================================================================
+  ASHIK.EXE — GITHUB PROFILE README
+  Design System: Minimalist Editorial Monochrome inspired by ashik-exe.vercel.app
+  Palette: #090909 (Canvas) · #141414 (Card) · #202020 (Line Soft) · #F5F5F5 (Text)
+========================================================================== -->
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="60" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="60" alt="illustrator logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="60" alt="photoshop logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="60" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&color=0:090909,70:141414,100:202020" alt="Ashik.exe Header Banner" />
 </div>
-
-###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=ashik-exe.ashik-exe&"  />
+  <code>BUILDING WITH INTENTION // 2026</code> &nbsp;•&nbsp; <code>CSE STUDENT // EXPLORING</code> &nbsp;•&nbsp; <code>WEB3 &amp; SYSTEMS</code>
 </div>
 
-###
+<br />
 
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
+<div align="center">
+  <a href="https://ashik-exe.vercel.app/" target="_blank" rel="noopener noreferrer">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://ashik-exe.vercel.app/icons/icon-512-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://ashik-exe.vercel.app/icons/icon-512-light.svg">
+      <img src="https://ashik-exe.vercel.app/icons/icon-512-dark.svg" width="68" height="68" alt="Ashik.exe Brand Mark" />
+    </picture>
+  </a>
+
+  <h1>★! Ashik.exe</h1>
+
+  <p>
+    <b>AI Builder &nbsp;·&nbsp; Web Developer &nbsp;·&nbsp; Designer</b><br />
+    <sub>CSE Student // 2026 &nbsp;·&nbsp; Gazipur, Dhaka, Bangladesh &nbsp;·&nbsp; 🟢 Open to Collaboration</sub>
+  </p>
+
+  <p>
+    <i>"Learning deeply. Building boldly."</i>
+  </p>
+
+  <p>
+    <a href="https://ashik-exe.vercel.app/" target="_blank" rel="noopener noreferrer">
+      <img src="https://img.shields.io/badge/Live_Portfolio-ashik--exe.vercel.app-090909?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Portfolio" />
+    </a>
+    &nbsp;
+    <a href="https://github.com/Ashik-exe/ashik-exe-portfolio-showcase" target="_blank" rel="noopener noreferrer">
+      <img src="https://img.shields.io/badge/Showcase_Repo-ashik--exe--portfolio--showcase-171717?style=for-the-badge&logo=github&logoColor=white" alt="Showcase Repo" />
+    </a>
+  </p>
 </div>
 
-###
+---
+
+### // Introduction
+
+> Self-learning Web3 contributor exploring blockchain systems, coding, and digital design. I build small experiments and share my learning through visuals, code, and community updates.
+
+---
+
+### 01 / About Me
+
+- ■ **Learning by Doing** — I'm a self-learning Web3 explorer and CSE student who loves understanding how things work under the hood: blockchain networks, automated workflows, and digital interfaces. I learn by building small experiments, breaking things, and sharing the lessons along the way.
+- ■ **Design-Conscious Engineering** — I care about both function and feel. I enjoy turning abstract concepts into practical software and digital experiences that feel thoughtful, responsive, and visually disciplined.
+- ■ **Learning in Public** — I’m not here to pretend I know everything. I’m here to learn publicly, build consistently, and improve every single day.
+
+---
+
+### 02 / The Focus // What I Split My Time Between
